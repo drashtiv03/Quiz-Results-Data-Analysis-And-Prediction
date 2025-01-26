@@ -1,5 +1,7 @@
+# My Project
 This project essentially aims to to display past performance of users,display performance gap and highlight strong and weak areas for the user using data-driven insights via effective data analysis and manipulation.It also stored the input data as it will serve as historic data for future inputs.
 
+# Datasets
 The datasets used in this project are
 
 1)combined_file csv-This dataset is responsible for converting the Json data from https://api.jsonserve.com/XgAgFJ
@@ -8,7 +10,7 @@ The datasets used in this project are
 
 3)sorted_data.csv-This dataset sorts the topics in order of their attempts based on start and end time of the given quiz
 
-
+# Notebooks
 The Jupyter Notebooks and the functions they provide:
 1)Json_to_csv:This notebook is essentially converts all the json data into csv.
 
@@ -41,7 +43,9 @@ The Jupyter Notebooks and the functions they provide:
 -It also highlights the if the topic and the quiz is a weak area or a strong area based on the latest attempt of the quiz.
 
 
-Possible Enhancements(can be done with more time):
+#Possible Enhancements
+
+(Could be done more with time)
 
 -Final enlisting of strong and weak areas can be done for all topics and not the one that's attempted
 
@@ -53,5 +57,5 @@ Possible Enhancements(can be done with more time):
 
 
 ## Screenshot
-
+![Screenshot](Screenshot 2025-01-26 233936.png)
 
