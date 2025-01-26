@@ -32,3 +32,8 @@ Possible Enhancements(can be done with more time):
 -The parameters for performace to be good or bad are decided on a general basis.More help from domain experts could enhance the conversion of numerical parameters into strong or weak.
 -The spectrum can be enhanced with larger range of feeback(for eg. very weak, weak,average,strong,very strong)
 -The duration taken for quiz and speed can be related with accuracy to tell user if he/she's too fast or slow.
+
+
+## Screenshot
+
+![Screenshot](assets/images/screenshot.png)
