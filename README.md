@@ -16,6 +16,8 @@ The Jupyter Notebooks and the functions they provide:
 
 1)Json_to_csv:This notebook is essentially converts all the json data into csv.
 
+
+
 2)Data Insights-This jupyter file logically combines connected csvs.Then it works on that data to handle missing values, drop non-important columns,derive a number of performance features and plot them against topic and other paramters to find out data trends and insights.
 
 -Created a logical csv by merging the response data csv and quiz data csv derived from Json data.
@@ -31,6 +33,7 @@ The Jupyter Notebooks and the functions they provide:
 -Lastly I plotted all the performance parameters(accuracy,percentage,mistake_ratio,rank_ratio) against topics, accuracy and difficulty level(speed)
 
 -The topic labels also had number of attemopt  attched to it so attemots of similar quizzes can be compared
+
 
 
 3)Execution(Most Significant):
