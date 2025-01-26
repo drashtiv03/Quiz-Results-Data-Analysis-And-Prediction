@@ -55,7 +55,10 @@ The Jupyter Notebooks and the functions they provide:
 
 -The duration taken for quiz and speed can be related with accuracy to tell user if he/she's too fast or slow.
 
+## Install Requirements
 
-## Screenshot
-![Screenshot](Screenshot 2025-01-26 233936.png)
+To install all the required dependencies for this project, use the following command:
+
+```bash
+pip install -r requirements.txt
 
