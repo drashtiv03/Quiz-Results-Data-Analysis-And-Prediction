@@ -1,7 +1,7 @@
 # My Project
 This project essentially aims to to display past performance of users,display performance gap and highlight strong and weak areas for the user using data-driven insights via effective data analysis and manipulation.It also stored the input data as it will serve as historic data for future inputs.
 
-# Datasets
+## Datasets
 
 The datasets used in this project are:
 
@@ -11,7 +11,7 @@ The datasets used in this project are:
 
 3)sorted_data.csv-This dataset sorts the topics in order of their attempts based on start and end time of the given quiz
 
-# Notebooks
+## Notebooks
 The Jupyter Notebooks and the functions they provide:
 
 1)Json_to_csv:This notebook is essentially converts all the json data into csv.
