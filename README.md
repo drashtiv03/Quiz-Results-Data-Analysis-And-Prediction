@@ -2,7 +2,8 @@
 This project essentially aims to to display past performance of users,display performance gap and highlight strong and weak areas for the user using data-driven insights via effective data analysis and manipulation.It also stored the input data as it will serve as historic data for future inputs.
 
 # Datasets
-The datasets used in this project are
+
+The datasets used in this project are:
 
 1)combined_file csv-This dataset is responsible for converting the Json data from https://api.jsonserve.com/XgAgFJ
 
@@ -12,6 +13,7 @@ The datasets used in this project are
 
 # Notebooks
 The Jupyter Notebooks and the functions they provide:
+
 1)Json_to_csv:This notebook is essentially converts all the json data into csv.
 
 2)Data Insights-This jupyter file logically combines connected csvs.Then it works on that data to handle missing values, drop non-important columns,derive a number of performance features and plot them against topic and other paramters to find out data trends and insights.
