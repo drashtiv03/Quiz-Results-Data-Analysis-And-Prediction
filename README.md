@@ -1,6 +1,7 @@
 This project essentially aims to to display past performance of users,display performance gap and highlight strong and weak areas for the user using data-driven insights via effective data analysis and manipulation.It also stored the input data as it will serve as historic data for future inputs.
 
 The datasets used in this project are
+
 1)combined_file csv-This dataset is responsible for converting the Json data from https://api.jsonserve.com/XgAgFJ
 
 2)preprocessed.csv-This dataset drops duplicates, handles missing value and drops colums with 0 unique values as there is no point in comparing.
