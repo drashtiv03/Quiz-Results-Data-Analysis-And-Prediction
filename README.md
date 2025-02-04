@@ -1,5 +1,5 @@
 # My Project
-This project essentially aims to to display past performance of users,display performance gap and highlight strong and weak areas for the user using data-driven insights via effective data analysis and manipulation.It also stored the input data as it will serve as historic data for future inputs.
+This project essentially aims to to display past performance of users,display performance gap and highlight strong and weak areas for the user using data-driven insights via effective data analysis and manipulation.It also stores the input data as it will serve as historic data for future inputs.
 
 ## Datasets
 
