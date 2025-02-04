@@ -66,6 +66,6 @@ To install all the required dependencies for this project, use the following com
 
 ```bash
 pip install -r requirements.txt
-
-Lastly the screenshots uploaded in the repository demonstrate the obtaind results from entire data analysis and prediction.
+```
+Lastly the screenshots uploaded in the repository demonstrate the obtained results from entire data analysis and prediction.
 
